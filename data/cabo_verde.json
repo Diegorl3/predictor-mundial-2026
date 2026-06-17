@@ -1,0 +1,15 @@
+{
+    "name": "Cabo Verde",
+    "xg_per_game": 1.5,
+    "xga_per_game": 0.9,
+    "possession_avg": 55.0,
+    "fifa_rank": 10,
+    "shots_on_target": 4.5,
+    "corners": 5.2,
+    "top_scorers": [
+        {
+            "name": "Estrella de Cabo Verde",
+            "prob": 0.35
+        }
+    ]
+}
